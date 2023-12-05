@@ -1,6 +1,7 @@
+import java.io.*;
 import java.util.Scanner;
 
-public class Main {
+public class CadastroCarros {
 
     public static void main(String[] args) {
         TabelaHash tabelaHash = new TabelaHash();
